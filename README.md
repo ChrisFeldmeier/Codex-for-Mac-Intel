@@ -12,9 +12,6 @@ Das Verbotszeichen auf dem App-Icon bedeutet: **macOS kann diese App auf deiner 
 
 Dieses Repository stellt ein Build-Script bereit, das aus dem originalen `Codex.dmg` ein Intel-kompatibles App-Image erzeugt. Die originale DMG-Datei bleibt dabei vollstaendig unberuehrt -- es wird lediglich eine neue, fuer x86_64 gebaute Version erstellt.
 
-Der Ansatz ist vergleichbar mit dem Community-Port fuer Linux:
-[Codex App for Linux (unofficial)](https://github.com/areu01or00/Codex-App-Linux/)
-
 ## Inhalt des Repos
 
 | Datei | Beschreibung |
